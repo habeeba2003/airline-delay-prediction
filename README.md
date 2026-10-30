@@ -108,6 +108,7 @@ xgboost
 imbalanced-learn
 joblib
 matplotlib
+tensorflow
 seaborn
 streamlit
 ```
